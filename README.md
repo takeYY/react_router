@@ -4,9 +4,12 @@ React-routerを使用して宣言的記法を利用したSPAのチュートリ�
 ## 使い方
 ターミナルを開いて
 ```
-npm install
+$ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader \
+        webpack webpack-cli webpack-dev-server \
+        react react-dom \
+        react-router react-router-dom
 ```
-でnode_modulesを作成
+で必要なライブラリのインストール
 ```
 npm start
 ```
