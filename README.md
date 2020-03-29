@@ -18,3 +18,7 @@ VS Code
 
 ## 参考文献
 [今から始めるReact入門 〜 React Router](https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2)
+
+## 注意
+Archivesタグをクリックしても想定した動作をしない  
+要検証
